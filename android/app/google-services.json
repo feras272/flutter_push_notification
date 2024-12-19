@@ -7,9 +7,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1046604501857:android:9e9d3b6b15c4a6db1b6b20",
+        "mobilesdk_app_id": "1:1046604501857:android:2f97be29bea5fb3c1b6b20",
         "android_client_info": {
-          "package_name": "com.ferasdev.flutter_push_notificatio"
+          "package_name": "com.ferasdev.flutter_push_notification"
         }
       },
       "oauth_client": [],
